@@ -1,8 +1,8 @@
 <p align="center">
  <img width="100px" src="img/LeoncioPavon.png" align="center"/>
  <h2 align="center">Leoncio Pavón </h2>
- <p align="center">Information Systems Engineering student</p>
-</p>
+ <p align="center">Information Systems Engineering student</p> 
+ 
 
 ## About Me:
 **No se que poner** 
@@ -11,10 +11,10 @@
 - 📫 <a href="mailto:leonciox5000@gmail.com">Send me and email!</a>
 
 
-## Idioms:
+## Languages:
 - Spanish (Main)
-- English (Advanced)
-- chinese (In progress...) 
+- English 
+- Chinese (In progress...) 
 
 ## Programming Languages:
 **Mas tarde lo pongo** 
@@ -29,6 +29,10 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoncioPavon&show_icons=true&theme=tokyonight)
+
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoncioPavon&theme=dracula)
 
 </details>
 
